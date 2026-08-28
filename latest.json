@@ -1,6 +1,16 @@
 {
-  "version": "",
-  "published": null,
-  "notes": null,
-  "builds": []
+  "version": "0.1.0",
+  "published": "2026-08-28T12:00:54Z",
+  "notes": "https://github.com/uttrflow/releases/releases/tag/v0.1.0-test.8c29f54",
+  "builds": [
+    {
+      "os": "macos",
+      "architecture": "appleSilicon",
+      "version": "0.1.0",
+      "url": "https://github.com/uttrflow/releases/releases/latest/download/Uttrflow.dmg",
+      "size": 4648211,
+      "requires": "macOS 26",
+      "gatekeeper": "unsigned"
+    }
+  ]
 }
