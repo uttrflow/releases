@@ -6,13 +6,13 @@
     <description>Updates for Uttrflow.</description>
     <language>en</language>
     <item>
-      <title>0.1.0</title>
-      <pubDate>Sat, 29 Aug 2026 05:32:28 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>0.1.1</title>
+      <pubDate>Sat, 29 Aug 2026 06:34:22 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/uttrflow/releases/releases/tag/v0.1.0-test.e4706d9</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/uttrflow/releases/releases/latest/download/Uttrflow.zip" type="application/octet-stream" length="5762422" sparkle:edSignature="V+I+Hn7jS3ujLInw4kxCfJLz/R1lvXFQIdR0mJHc2nq6pYH+zny2GiGW4RaxQy6U1pwuvNvplNN33A0PEQoIBg==" />
+      <sparkle:releaseNotesLink>https://github.com/uttrflow/releases/releases/tag/v0.1.1-test.a85ca77</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/uttrflow/releases/releases/latest/download/Uttrflow.zip" type="application/octet-stream" length="5768640" sparkle:edSignature="EsIfngGf8+EZTdRzx3Sd+H9dc7qLMjxDGgI80+r1HrPbTgQol1yfAWH+f/Yrf/d5T+rqdt4yUDVyvviDlmT5CQ==" />
     </item>
   </channel>
 </rss>
