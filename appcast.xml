@@ -12,7 +12,7 @@
       <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/uttrflow/releases/releases/tag/v0.3.0-test.0f0a7ad</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/uttrflow/releases/releases/latest/download/Uttrflow.zip" type="application/octet-stream" length="5803508" sparkle:edSignature="i7V0OXZBKpt4wg2DuUjxl0z1nhMGyLyAGhH0HOsUUMBPpMAae/3g3YxZRS71lHSRfFEquGUoE2b56ua3J/r+DA==" />
+      <enclosure url="https://github.com/uttrflow/releases/releases/download/v0.3.0-test.0f0a7ad/Uttrflow.zip" type="application/octet-stream" length="5803508" sparkle:edSignature="i7V0OXZBKpt4wg2DuUjxl0z1nhMGyLyAGhH0HOsUUMBPpMAae/3g3YxZRS71lHSRfFEquGUoE2b56ua3J/r+DA==" />
     </item>
   </channel>
 </rss>
