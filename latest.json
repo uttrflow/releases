@@ -1,14 +1,14 @@
 {
-  "version": "2026.9.14",
-  "published": "2026-09-14T07:01:34Z",
-  "notes": "https://github.com/uttrflow/releases/releases/tag/v2026.9.14",
+  "version": "26.0926.0",
+  "published": "2026-09-28T05:07:07Z",
+  "notes": "https://github.com/uttrflow/releases/releases/tag/v26.0926.0",
   "builds": [
     {
       "os": "macos",
       "architecture": "appleSilicon",
-      "version": "2026.9.14",
+      "version": "26.0926.0",
       "url": "https://github.com/uttrflow/releases/releases/latest/download/Uttrflow.dmg",
-      "size": 14948653,
+      "size": 27187998,
       "requires": "macOS 26",
       "gatekeeper": "unsigned"
     }
