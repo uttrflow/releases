@@ -7,12 +7,12 @@
     <language>en</language>
     <item>
       <title>26.1013.0</title>
-      <pubDate>Fri, 30 Oct 2026 20:01:06 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 20:10:44 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>26.1013.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/uttrflow/releases/releases/tag/v26.1013.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/uttrflow/releases/releases/download/v26.1013.0/Uttrflow.zip" type="application/octet-stream" length="28333950" sparkle:edSignature="j0YCrWyevh57xki8YkvQmrzQAY0yvF+NprKNoSW94YVq+uk/Y7GX0iWyHH0YbeZC3pI1qKZWSFJ5OkxqI+9XBQ==" />
+      <enclosure url="https://github.com/uttrflow/releases/releases/download/v26.1013.0/Uttrflow.zip" type="application/octet-stream" length="28334024" sparkle:edSignature="80P6IRF4j1Hm4LVwXoWaSsXbpFN6f6cCnlaMlgrr9YfSi6SFARuDPMaitU+HqA1fbSvTnYxnjENKksoPaQK2Ag==" />
     </item>
   </channel>
 </rss>

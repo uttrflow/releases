@@ -1,6 +1,6 @@
 {
   "version": "26.1013.0",
-  "published": "2026-10-30T20:01:06Z",
+  "published": "2026-10-30T20:10:44Z",
   "notes": "https://github.com/uttrflow/releases/releases/tag/v26.1013.0",
   "builds": [
     {
@@ -8,7 +8,7 @@
       "architecture": "appleSilicon",
       "version": "26.1013.0",
       "url": "https://github.com/uttrflow/releases/releases/latest/download/Uttrflow.dmg",
-      "size": 27988163,
+      "size": 27988242,
       "requires": "macOS 26",
       "gatekeeper": "unsigned"
     }
