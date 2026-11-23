@@ -6,13 +6,13 @@
     <description>Updates for Uttrflow.</description>
     <language>en</language>
     <item>
-      <title>26.1106.0</title>
-      <pubDate>Fri, 06 Nov 2026 04:14:52 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>26.1106.0</sparkle:shortVersionString>
+      <title>26.1115.0</title>
+      <pubDate>Mon, 23 Nov 2026 17:02:31 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>26.1115.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/uttrflow/releases/releases/tag/v26.1106.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/uttrflow/releases/releases/download/v26.1106.0/Uttrflow.zip" type="application/octet-stream" length="28596982" sparkle:edSignature="TqxH2nN7YXkV2fFS10grlN8ouUDB2N+5VkeIIjh1WkzgVedSt0IURqXVxCmSLeXQQQp9aOvqMbZdXq6Q5t2TDg==" />
+      <sparkle:releaseNotesLink>https://github.com/uttrflow/releases/releases/tag/v26.1115.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/uttrflow/releases/releases/download/v26.1115.0/Uttrflow.zip" type="application/octet-stream" length="29404550" sparkle:edSignature="15LGK7YvQ4sIMCVM8cb/UE8+/vEcfkGoPGcjlbhl0qu3RaIr0F71JEDgAuhRka4XKbWJU0y0cruKGiF4MM7rDg==" />
     </item>
   </channel>
 </rss>
